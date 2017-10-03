@@ -6,7 +6,7 @@ The data is from 130 US hospitals between 1999 - 2008. It contains basic patient
 
 There is a bubble plot that describes the number of medications prescribed to a patient vs. the number of laboratory procedures performed: 
 <p align="center">
-<img src="images/bubble_meds.png" width="450"/> 
+<img src="images/bubble_meds.png" width="400"/> 
 </p>
 
 A parallel coordinates plot that summarizes the patient/hospital interaction for each medical specialty:
