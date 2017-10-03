@@ -1,8 +1,3 @@
-rm(list=ls())
-cat("\014")
-
-
-
 ## Install and Load Appropriate Packages ##
 list.of.packages <- c('tidyr', 'shiny', 'ggplot2', 'scales', 'plyr', 'reshape', 'dplyr', 'GGally')
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
