@@ -4,7 +4,7 @@ This is a visualization of diabetic patient hospital visits in the US. I used th
 
 The data is from 130 US hospitals between 1999 - 2008. It contains basic patient information (e.g. height, weight, gender, age) as well as information regarding the hospital visit, including: physician specialty, the number of days the patient was admitted, and the number of procedures performed on the patient. 
 
-There is a bubble plot that describes the number of medications prescribed to a patient vs. the number of laboratory procedures performed: 
+There are bubble plots that describe the average number of laboratory procedures performed on diabetes patients compared to other variables in the dataset: 
 <p align="center">
 <img src="images/bubble_meds.png" width="400"/> 
 </p>
