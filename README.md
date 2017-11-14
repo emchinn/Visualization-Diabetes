@@ -6,17 +6,17 @@ The data is from 130 US hospitals between 1999 - 2008. It contains basic patient
 
 There are bubble plots that describe the average number of laboratory procedures performed on diabetes patients compared to other variables in the dataset: 
 <p align="center">
-<img src="images/bubble_meds.png" width="400"/> 
+<img src="images/bubble_meds.png" width="450"/> 
 </p>
 
 A parallel coordinates plot that summarizes the patient/hospital interaction for each medical specialty:
 <p align="center">
-<img src="images/parallel.png" width="450"/> 
+<img src="images/parallel.png" width="500"/> 
 </p>
 
 As well as a collection of bar plots which describe the patient demographics that each medical specialty encountered:
 <p align="center">
-<img src="images/hist_weight.png" width="450"/> 
+<img src="images/hist_weight.png" width="500"/> 
 </p>
 
 To run the web app, from the R console type:
